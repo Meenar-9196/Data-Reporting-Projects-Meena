@@ -11,8 +11,6 @@ full analytics pipeline — from raw PDF extraction to a 4-page
 interactive Power BI dashboard — and includes the first major supply 
 shock analysis since the Strait of Hormuz closure on February 28 2026.
 
-> **Live dashboard →** [View on Power BI Service](#) *(add your link)*
-
 ---
 
 ## The Business Problem
